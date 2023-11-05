@@ -1,1 +1,1 @@
-# How-to-Train-YOLO-NAS-on-Custom-Dataset
+# YOLO-NAS ile Nesne Tespiti
