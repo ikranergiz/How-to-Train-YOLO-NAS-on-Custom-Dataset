@@ -1,0 +1,11 @@
+# images
+photos/
+*.img
+*.png
+*.jpg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# csv files
+*.csv
